@@ -1,4 +1,4 @@
-# tf-pocs
+# Terraform Proof of Concept
 
 You must have your AWS profile already configured. In this repository I'm not show how to configure your AWS CLI, only Terraform samples. 
 
